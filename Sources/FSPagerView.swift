@@ -74,7 +74,7 @@ public protocol FSPagerViewDelegate: NSObjectProtocol {
     
 }
 
-@IBDesignable
+//@IBDesignable
 open class FSPagerView: UIView,UICollectionViewDataSource,UICollectionViewDelegate {
     
     // MARK: - Public properties
